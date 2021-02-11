@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://host.cloudyyuw.repl.co/i/e6ec7f963380809994eadb5d439f0abe.gif" /><br><br>
+  <img src="https://cdn.cloudyyuw.repl.co/i/5njmnzglv2k.gif" /><br><br>
 </p>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=CloudyyUw&show_icons=true&theme=cobalt" />
