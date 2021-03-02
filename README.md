@@ -5,3 +5,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=CloudyyUw&show_icons=true&theme=tokyonight&hide_border=true" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudyyUw&show_icons=true&hide_border=true&theme=tokyonight" />
+<br>
+<p>
+ <b>Favorite languages:</b> JavaScript, TypeScript<br>
+ <b>Learning:</b> PHP, Lua, Python, Elixir
+</p>
