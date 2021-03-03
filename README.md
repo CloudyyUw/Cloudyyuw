@@ -8,5 +8,5 @@
 <br>
 <p>
  <b>Favorite languages:</b> JavaScript, TypeScript<br>
- <b>Learning:</b> PHP, Lua, Python, Elixir
+ <b>Learning:</b> C#, PHP, Lua, Python, Elixir
 </p>
